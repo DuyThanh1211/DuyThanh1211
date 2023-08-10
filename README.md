@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @DuyThanh1211
-- 👀 I'm interested in developer work
+- 👀 I'm interested in developer job
 - 🎓 Currently a senior student majoring in Software Engineering at Van Lang University with a Software Engineering training program transferred from Carnegie Mellon University (CMU) .
 - 💞️ I am a freelance front-end developer with experience using JavaScript frameworks such as Angular and ReactJS to develop dynamic web applications
 <!---
